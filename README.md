@@ -16,7 +16,6 @@ H5中引入微信jssdk，测试微信授权的部分api的使用，此H5最终�
 [03. 确认选择文件回调](./imgs-dispaly/use-jssdk03.png)
 [04. 获取签名](./imgs-dispaly/use-jssdk04.png)
 
-**项目线上地址：** http://vipres.top/use-jssdk/index.html
 
 ## 目录介绍
 - constants => 常量设置并导出在app.js中使用
